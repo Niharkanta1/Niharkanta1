@@ -1,5 +1,5 @@
 <h2> Hi, I'm Nihar Tripathy! <img src="https://media0.giphy.com/media/eYHYak52vX8fnYu26C/giphy.gif?cid=790b761110335fa4ba65e6e43aec6069b9fbb0ac8108183b&rid=giphy.gif&ct=s" width="30"></h2>
-<img align='right' src="https://imgur.com/PMcWAnC" width="200"/>
+<img align='right' src="https://i.imgur.com/PMcWAnC.png" width="200"/>
 <p><em>Senior Software Engineer at <a href="https://www.evoketechnologies.com/">Evoke Technologies </a>
 <img src="https://cdn.pixabay.com/photo/2016/10/02/19/51/chip-1710300_960_720.png" width="30"/>
 <br>
@@ -42,5 +42,5 @@ class Intro {
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niharkanta1&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://imgur.com/68rAABz" width="60"><em><b>Success is not final, failure is not fatal: it is the courage to continue that counts.</b> – ‘Call of duty: Modern Warfare’</em>
+<img src="https://i.imgur.com/68rAABz.png" width="60"><em><b>Success is not final, failure is not fatal: it is the courage to continue that counts.</b> – ‘Call of duty: Modern Warfare’</em>
 ---
