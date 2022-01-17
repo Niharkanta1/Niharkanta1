@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Unity/Unreal Engine Game Development and Mod Creation for different games like SP-Tarkov, Project Zomboid, Anno1800, Cities Skylines etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- <p><a href='#' class='symbol' title='circletwitterbird'>Follow us</a></p>
 
 ![Nihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharkanta1&hide=contribs,prs&show_icons=true&theme=onedark)
 <br>
