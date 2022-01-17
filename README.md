@@ -1,7 +1,7 @@
 <h2> Hi, I'm Nihar Tripathy! <img src="https://media0.giphy.com/media/eYHYak52vX8fnYu26C/giphy.gif?cid=790b761110335fa4ba65e6e43aec6069b9fbb0ac8108183b&rid=giphy.gif&ct=s" width="30"></h2>
 <img align='right' src="https://yt3.ggpht.com/ytc/AKedOLQSby9YYNm9dkgUqDgr_PoMAHnadObYzXNWQn5CBg=s600-c-k-c0x00ffffff-no-rj-rp-mo" width="200"/>
 <p><em>Senior Software Engineer at <a href="https://www.evoketechnologies.com/">Evoke Technologies </a>
-<img src="https://cdn-icons.flaticon.com/png/512/3242/premium/3242257.png?token=exp=1642426696~hmac=e9dbcd379b153e927f9a8a69b0f9924c" width="30"/>
+<img src="https://www.flaticon.com/free-icon/question_2353678?related_id=2353678" width="30"/>
 <br>
 Newbie Game Developer and Moder <img src="https://cdn-icons-png.flaticon.com/512/808/808439.png" width="30"> 
 </em></p>
