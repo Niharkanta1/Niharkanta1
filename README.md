@@ -1,7 +1,7 @@
 <h2> Hi, I'm Nihar Tripathy! <img src="https://media0.giphy.com/media/eYHYak52vX8fnYu26C/giphy.gif?cid=790b761110335fa4ba65e6e43aec6069b9fbb0ac8108183b&rid=giphy.gif&ct=s" width="30"></h2>
-<img align='right' src="https://yt3.ggpht.com/ytc/AKedOLQSby9YYNm9dkgUqDgr_PoMAHnadObYzXNWQn5CBg=s600-c-k-c0x00ffffff-no-rj-rp-mo" width="200"/>
+<img align='right' src="https://imgur.com/PMcWAnC" width="200"/>
 <p><em>Senior Software Engineer at <a href="https://www.evoketechnologies.com/">Evoke Technologies </a>
-<img src="https://www.flaticon.com/free-icon/question_2353678?related_id=2353678" width="30"/>
+<img src="https://cdn.pixabay.com/photo/2016/10/02/19/51/chip-1710300_960_720.png" width="30"/>
 <br>
 Newbie Game Developer and Moder <img src="https://cdn-icons-png.flaticon.com/512/808/808439.png" width="30"> 
 </em></p>
@@ -42,5 +42,5 @@ class Intro {
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niharkanta1&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://cdn-icons.flaticon.com/png/512/738/premium/738880.png?token=exp=1642430691~hmac=e85937524df975afe59b7f5980f5ea6f" width="60"><em><b>Success is not final, failure is not fatal: it is the courage to continue that counts.</b> – ‘Call of duty: Modern Warfare’</em>
+<img src="https://imgur.com/68rAABz" width="60"><em><b>Success is not final, failure is not fatal: it is the courage to continue that counts.</b> – ‘Call of duty: Modern Warfare’</em>
 ---
