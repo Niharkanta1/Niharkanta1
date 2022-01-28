@@ -10,6 +10,14 @@ Newbie Game Developer and Moder <img src="https://cdn-icons-png.flaticon.com/512
 [![Linkedin: nihar-kanta-tripathy-07128660](https://img.shields.io/badge/-Nihar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihar-kanta-tripathy-07128660/)](https://www.linkedin.com/in/nihar-kanta-tripathy-07128660/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/Niharkanta1?label=follow&style=social)](https://github.com/Niharkanta1)
 
+<h5>Languages and Tools</h5>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="30" height="30"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="30" height="30"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30" height="30"/></span>
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/943/943579.png" width="50"> More about me...  
 
