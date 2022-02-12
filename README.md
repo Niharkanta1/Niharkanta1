@@ -16,9 +16,10 @@ Newbie Game Developer and Moder <img src="https://cdn-icons-png.flaticon.com/512
 <span><a href="https://www.typescriptlang.org/"><img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/></a></span>
 <span><a href="https://kotlinlang.org/"><img title="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30"/></a></span>
 <span><a href="https://angularjs.org/"><img title="AngularJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30"/></a></span>
-<span><a href="https://unity.com/"><img title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="30" height="30"/></a></span>
-<span><a href="https://godotengine.org/"><img title="Godot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="30" height="30"/></a></span>
 <span><a href="https://visualstudio.microsoft.com/"><img title="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30" height="30"/></a></span>
+<span><a href="https://godotengine.org/"><img title="Godot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="30" height="30"/></a></span>
+<span><a href="https://unity.com/"><img title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="30" height="30"/></a></span>
+
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/943/943579.png" width="50"> More about me...  
 
