@@ -52,7 +52,7 @@ class Intro {
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niharkanta1&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![Visitor Count](https://profile-counter.glitch.me/Niharkanta1/count.svg)
+![](https://komarev.com/ghpvc/?username=Niharkanta1)
 
 <img src="https://i.imgur.com/68rAABz.png" width="60"><em><b>Success is not final, failure is not fatal: it is the courage to continue that counts.</b> – ‘Call of duty: Modern Warfare’</em>
 ---
