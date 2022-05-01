@@ -3,7 +3,7 @@
 <p><em>Senior Software Engineer at <a href="https://www.evoketechnologies.com/">Evoke Technologies </a>
 <img src="https://i.imgur.com/utLVnrw.png" width="30"/>
 <br>
-Newbie Game Developer and Moder <img src="https://cdn-icons-png.flaticon.com/512/808/808439.png" width="30"> 
+Novice Game Developer and Moder <img src="https://cdn-icons-png.flaticon.com/512/808/808439.png" width="30"> 
 </em></p>
 
 [![Twitter: Nihar_DeadW0LF](https://img.shields.io/twitter/follow/Nihar_DeadW0LF?style=social)](https://twitter.com/Nihar_DeadW0LF)
