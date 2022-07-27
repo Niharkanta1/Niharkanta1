@@ -1,6 +1,6 @@
 <h2> Hi, I'm Nihar Tripathy! <img src="https://media0.giphy.com/media/eYHYak52vX8fnYu26C/giphy.gif?cid=790b761110335fa4ba65e6e43aec6069b9fbb0ac8108183b&rid=giphy.gif&ct=s" width="30"></h2>
 <img align='right' src="https://i.imgur.com/PMcWAnC.png" width="200"/>
-<p><em>Senior Software Engineer at <a href="https://www.evoketechnologies.com/">Evoke Technologies </a>
+<p><em>Senior Software Engineer at &nbsp;<a href="https://www.netcracker.com/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Netcracker_Technology_logo.svg/2560px-Netcracker_Technology_logo.svg.png" alt="Netcracker" style="width:15%;background-color: white;"></a>&nbsp;
 <img src="https://i.imgur.com/utLVnrw.png" width="30"/>
 <br>
 Novice Game Developer and Moder <img src="https://cdn-icons-png.flaticon.com/512/808/808439.png" width="30"> 
