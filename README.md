@@ -32,9 +32,9 @@ class Intro {
         String[] tools = {"Node", "npm", "docker", "Unity", "Godot"};
         var architecture = {"microservices", "event-driven", "design system pattern"};
         var interests = "Software Development, Game Modding and Indie Game Development";
-        var currentGoals = "learning Unity/ Launch first game in Playstore " +
-                "React or Python Training, " +
-                "Prototype for a RogueLike Game";
+        var currentGoals = "Launch first game in Playstore." +
+                "React or Python Training." +
+                "Prototype for a RogueLike Game.";
         var links = "Links below!!!";
     };
 }
