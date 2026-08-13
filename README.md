@@ -48,7 +48,7 @@ class Intro {
 
 
 
-![DeadWolf Games]([https://github-readme-stats.vercel.app/api?username=niharkanta1&hide=contribs,prs&show_icons=true&theme=onedark](https://niharkanta1.github.io/deadwolf-games/index.html))
+[DeadWolf Games]([https://github-readme-stats.vercel.app/api?username=niharkanta1&hide=contribs,prs&show_icons=true&theme=onedark](https://niharkanta1.github.io/deadwolf-games/index.html))
 <br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niharkanta1&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 <br> -->
